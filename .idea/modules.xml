@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../neverbe.iml" filepath="$PROJECT_DIR$/../neverbe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/neverbe.iml" filepath="$PROJECT_DIR$/.idea/neverbe.iml" />
     </modules>
   </component>
 </project>
